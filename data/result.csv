@@ -1,0 +1,14 @@
+SSP_ID,ERROR,AMOUNT
+37,#/imp/[items]/video/companionad/[items]/{type} must be integer,11
+38,#/imp/[items]/video/companionad/[items]/{type} must be integer,5
+34,#/imp/[items]/video/w/{type} must be integer,1
+43,#/imp/[items]/video/companionad/[items]/{type} must be integer,9
+55,#/imp/[items]/bidfloor/{type} must be number,18
+56,#/imp/[items]/bidfloor/{type} must be number,10
+57,#/imp/[items]/bidfloor/{type} must be number,5
+58,#/imp/[items]/video/companionad/[items]/{type} must be integer,3
+134,#/imp/[items]/video/companionad/[items]/{type} must be integer,2
+136,#/imp/[items]/video/companionad/[items]/{type} must be integer,3
+143,#/imp/[items]/video/companionad/[items]/{type} must be integer,5
+147,#/imp/[items]/video/companionad/[items]/{type} must be integer,9
+152,#/imp/[items]/video/companionad/[items]/{type} must be integer,2
